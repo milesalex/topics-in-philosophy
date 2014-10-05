@@ -1,0 +1,41 @@
+body  {
+  background: #fff;
+}
+
+.wrap {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: bold;
+  line-height: 1.7;
+  padding: 20px;
+  font-size: 24px;
+}
+
+.intro {
+  margin-bottom: 5em;
+}
+
+.small {
+  font-size:14px;
+}
+
+.gray {
+  color: #808080
+}
+
+.gray a {
+  color: #808080;
+}
+
+a {
+  color:#111;
+  text-decoration: none;
+  border-bottom: 1px solid #ccc;
+}
+
+a:hover {
+  border-bottom: 1px solid #111;
+}
+
+a:visited {
+  color: #a9a9a9;
+};
