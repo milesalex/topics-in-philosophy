@@ -9199,8 +9199,6 @@ $(function() {
   for (i = 0; i < length; i++) {
     $('.topics').append('<p><a href="https://www.google.com/#q=' + json[i][0] + '">' + json[i][0] + '</a></p>');
   }
-  // console.log(json[0]);
-  // console.log(json.length);
 
 });
 
